@@ -1,0 +1,7 @@
+body {
+    background-color: #b0c5eb;
+    font-family: sans-serif;
+    font-size: 18px;
+    /* Always show a vertical scrollbar */
+    overflow-y: scroll;
+}
